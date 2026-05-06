@@ -177,3 +177,10 @@ Passionate about building real-world projects using:
 📈 Microsoft Power BI
 📦 Supply Chain Analytics
 💡 Decision Support Systems
+🌐 Connect With Me
+
+🔗 GitHub: Add Your GitHub Profile Link
+💼 LinkedIn: Add Your LinkedIn Profile Link
+📧 Email: Add Your Email (Optional)
+
+⭐ If you like this project, give it a star on GitHub!
